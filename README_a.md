@@ -1,4 +1,4 @@
-# Análisis y geolocalizacion por medio del campo magnético de la Tierra
+﻿# Geolocalizacion electromagnetica
 
 ## Objetivo general:
 Implementar un sistema de geolocalización que permita reducir el rango de error que exite en los sistemas comues de geolocalización.
